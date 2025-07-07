@@ -3,7 +3,7 @@
 A simple web-based calculator built with HTML, CSS, and JavaScript for a user-friendly experience.
 
 # Image
-
+![Calculator](image/Calculator.png)
 ## 🚀 Features
 
 - _HTML5_: Structured markup for the calculator interface
