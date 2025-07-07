@@ -17,7 +17,6 @@ A simple web-based calculator built with HTML, CSS, and JavaScript for a user-fr
 No additional dependencies required.
 
 ## 📁 Project Structure
-
 calculator_app/
 ├── calculator.html          # Main HTML file
 ├── calculator.css          # CSS styles
