@@ -12,10 +12,9 @@ A simple web-based calculator built with HTML, CSS, and JavaScript for a user-fr
 - **Git**: Version control for collaboration
 
 ## 🚀 Features
-
-- _HTML5_: Structured markup for the calculator interface
-- _CSS3_: Clean, responsive styling
-- _JavaScript_: Handles calculations and user interactions
+- **Basic Arithmetic**: Supports addition, subtraction, multiplication, and division
+- **Responsive Interface**: Adapts to mobile and desktop screens using CSS Flexbox
+- **Real-Time Calculations**: JavaScript-powered instant result
 
 ## 📋 Prerequisites
 
