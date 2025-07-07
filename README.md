@@ -4,6 +4,13 @@ A simple web-based calculator built with HTML, CSS, and JavaScript for a user-fr
 
 # Image
 ![Calculator](image/Calculator.png)
+## 🛠️ Technologies
+- **HTML5**: Structured markup for the calculator interface
+- **CSS3**: Responsive styling with Flexbox and media queries
+- **JavaScript**: Logic for calculations and user interactions
+- **VS Code**: Development environment
+- **Git**: Version control for collaboration
+
 ## 🚀 Features
 
 - _HTML5_: Structured markup for the calculator interface
