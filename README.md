@@ -23,13 +23,14 @@ A simple web-based calculator built with HTML, CSS, and JavaScript for a user-fr
 No additional dependencies required.
 
 ## 📁 Project Structure
-
+```bash
 calculator_app/
 ├── calculator.html # Main HTML file
 ├── calculator.css # CSS styles
 ├── calculator.js # JavaScript logic
+├── image/Calculator.png # Final product image
 └── README.md # Project documentation
-
+````
 ## 🎨 Styling
 
 - Uses CSS3 for layout and design
