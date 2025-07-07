@@ -1,42 +1,35 @@
-# Calculator Project
-Overview
-A simple calculator application for basic arithmetic operations.
-Features
+# Calculator App
+A simple web-based calculator built with HTML, CSS, and JavaScript for a user-friendly experience.
 
-Addition, subtraction, multiplication, division
-User-friendly interface
-Error handling for invalid inputs
+## 🚀 Features
+- *HTML5*: Structured markup for the calculator interface
+- *CSS3*: Clean, responsive styling
+- *JavaScript*: Handles calculations and user interactions
 
-Installation
+## 📋 Prerequisites
+- Web browser (Chrome, Firefox, Safari, etc.)
+- Text editor (VS Code, Sublime, etc.) for development
 
-Clone the repository:git clone https://github.com/your-username/calculator-project.git
+## 🛠 Installation
+1. Clone or download the project.
+2. Open calculator.html in a web browser.
+
+No additional dependencies required.
+
+## 📁 Project Structure
+
+calculator_app/
+├── calculator.html          # Main HTML file
+├── calculator.css          # CSS styles
+├── calculator.js           # JavaScript logic
+└── README.md           # Project documentation
 
 
-Navigate to the project directory:cd calculator-project
+## 🎨 Styling
+- Uses CSS3 for layout and design
+- Flexbox for responsive button grid
+- Hover effects for interactive feedback
 
-
-Install dependencies (if applicable):npm install
-
-
-
-Usage
-
-Run the application:npm start
-
-
-Follow on-screen instructions to perform calculations.
-
-Technologies
-JavaScript
-HTML/CSS 
-
-Contributing
-
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit changes (git commit -m "Add feature").
-Push to the branch (git push origin feature-branch).
-Create a Pull Request.
-
-License
-MIT License
+## 🙏 Acknowledgments
+- Built with ❤ using HTML, CSS, and JavaScript
+- Inspired by simple web development principles
