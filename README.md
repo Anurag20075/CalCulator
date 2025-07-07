@@ -1,7 +1,8 @@
 # Calculator App
 
-![Calculator Screenshot](<image/Screenshot(6).png>)
 A simple web-based calculator built with HTML, CSS, and JavaScript for a user-friendly experience.
+
+# Image
 
 ## 🚀 Features
 
